@@ -1,0 +1,9 @@
+{
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"files.insertFinalNewline": true,
+	"files.trimTrailingWhitespace": true,
+	"prettier.endOfLine": "lf",
+	"prettier.useTabs": true
+}
