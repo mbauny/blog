@@ -1,5 +1,4 @@
 ---
-title: 'Blocking QObjects signals'
 date: 2019-11-05
 tags: [C++, Qt]
 ---
