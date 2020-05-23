@@ -1,4 +1,4 @@
-# Matthieu Bauny's personal homepage
+# Matthieu Bauny's homepage
 
 ## :wave: Meet the engineer
 
