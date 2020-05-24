@@ -1,7 +1,6 @@
----
-date: 2019-11-05
-tags: [C++, Qt]
----
+[//]: # (date 2019-11-05)
+[//]: # (tags C++, Qt)
+
 # Blocking QObjects signals
 
 ## Motivation

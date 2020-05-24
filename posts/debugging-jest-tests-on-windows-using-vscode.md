@@ -1,7 +1,6 @@
----
-date: 2020-01-22
-tags: [JavaScript, Jest, VSCode]
----
+[//]: # (date 2020-01-22)
+[//]: # (tags JavaScript, Jest, VSCode)
+
 # Debugging Jest tests on Windows using VSCode
 
 ## Motivation
