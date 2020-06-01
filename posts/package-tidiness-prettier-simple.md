@@ -1,5 +1,5 @@
-[//]: # "date 2020-05-01"
-[//]: # "tags JavaScript, NodeJS, Prettier, VSCode"
+[//]: # (date 2020-05-01)
+[//]: # (tags JavaScript, NodeJS, Prettier, VSCode)
 
 # Cleaning your package's root: Prettier (The basic case)
 
