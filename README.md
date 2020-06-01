@@ -1,8 +1,12 @@
-# Matthieu Bauny's homepage
+# Meet the engineer
 
-## :wave: Meet the engineer
+## :wave: Matthieu Bauny's page
 
-Hi, welcome to my homepage. I blog a little. My latest posts can be found bellow.
+Hi, welcome to my homepage.
+
+I blog a little and my latest posts can be found bellow. You can also read a little more about me [here](./pages/about.md "About").
+
+Cheers.
 
 ## :new: Latest posts
 
@@ -11,5 +15,5 @@ Hi, welcome to my homepage. I blog a little. My latest posts can be found bellow
 
 ## :date: Older posts
 
-- [Browse by date](./posts)
-- [Browse by tag](./tags)
+- [Browse by date](./posts "Posts")
+- [Browse by topic](./tags "Tags")
