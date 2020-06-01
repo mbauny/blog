@@ -13,4 +13,4 @@ Everything else is visible on my [LinkedIn](https://www.linkedin.com/in/mbauny) 
 
 My current computer-related interests resolve mostly around **procedural narrative and the Javascript ecosystem**. Other than that, I love a good story and will probably die of a music overdose.
 
-The [title](https://github.com/mbauny/blog#wave-meet-the-engineer "Meet the engineer") of this blog is a nod to [Team Fortress 2](https://www.youtube.com/watch?v=SNgNBsCI4EA).
+The [title](https://github.com/mbauny/blog#meet-the-engineer "Meet the engineer") of this blog is a nod to [Team Fortress 2](https://www.youtube.com/watch?v=SNgNBsCI4EA).
