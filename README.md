@@ -1,12 +1,12 @@
 # Meet the engineer
 
-## :wave: Matthieu Bauny's page
+## :house: Matthieu Bauny's page
 
 Hi, welcome to my homepage.
 
 I blog a little and my latest posts can be found bellow. You can also read a little more about me [here](./pages/about.md "About").
 
-Cheers.
+Cheers :metal:
 
 ## :new: Latest posts
 
