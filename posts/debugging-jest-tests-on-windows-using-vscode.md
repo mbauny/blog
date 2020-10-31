@@ -95,4 +95,4 @@ This is exactly what we needed: here is the updated configuration that works on 
 -   Beware what Jest mode you are using
 -   When in doubt, refer to the documentation of the tool you are using
 -   Pay attention to log messages
--   Expect multi-plaform friction
+-   Expect multi-platform friction
