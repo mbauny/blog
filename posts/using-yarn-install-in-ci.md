@@ -1,5 +1,5 @@
-[//]: # (date 2020-10-31)
-[//]: # (tags Yarn, npm, GitHub)
+[//]: # 'date 2020-10-31'
+[//]: # 'tags Yarn, npm, GitHub'
 
 # Using Yarn install in a CI environment
 
